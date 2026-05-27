@@ -1,8 +1,3 @@
-import sensor, image, time, tf
-
-# ----------------------------
-# Camera setup
-# ----------------------------
 import sensor, image, time, ml
 
 # ----------------------------
